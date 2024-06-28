@@ -14,9 +14,9 @@
       --#     IDEAL WT. ::  61 kg         ||                   CURRENTLY LEARNING ::  DEVELOPING APIs                  #*
       --#                                 ||                   SOMEDAY I WOULD LOVE TO LEARN DSA IN C++                %+
       +-#    TODAY I'LL BE TRAINING:-     ||                                                                           %*
-      =*#          %%%%%%%%%%%%%%%%%      ||                               MY SOCIAL MEDIA                             %*
-      =*#                                 ||      𝕏/Instagram :: @__call_me_shiv                                       %*
-      =*#+*%                                      <SOMEDAY PUT WEBSITE LINK HERE>                                   #+*%*
-      =*#**+=%                          <DYNAMIC HEALTH DASHBOARD THAT I WILL DEVELOP WILL GO HERE>               %++**%*
+      =*#          %%%%%%%%%%%%%%%%%      ||                CONNECT WITH ME ON 𝕏/Instagram :: @__call_me_shiv          %*
+      =*#                                 ||                                                                           %*
+      =*#+*%  <PUT MY WEBSITE LINK HERE>                                                                            #+*%*
+      =*#**+=%                        <DYNAMIC HEALTH DASHBOARD THAT I WILL DEVELOP WILL GO HERE>                 %++**%*
       =*#@@@@@@%**+++++++++++++++++++++++++++++++**#*###*#*#*%#############@@@@@@@@@@@@@@**#**#**#**#**#**#**#**#**#**#
       %########%%##################################%##########@%@@@@@@@@@@@############################%%#%@#%@%%@%%
