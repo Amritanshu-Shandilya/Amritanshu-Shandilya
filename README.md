@@ -10,7 +10,7 @@
       %+#       WEIGHT  ::  67 kg         ||                          PROGRAMMING IS MY HOBBY                          +=
       *+#                                 ||                                                                            +
       =-#          BMI  ::  24.58         ||                 CURRENTLY WORKING ON ::  HEALTH DASHBOARD                  +
-      --#                                 ||                            COMING UP ::  POKEMON GAME IN C++               +
+      --#                                 ||                            COMING UP ::  A GAME IN C++                     +
       --#     IDEAL WT. ::  61 kg         ||                   CURRENTLY LEARNING ::  DEVELOPING APIs                  #*
       --#                                 ||                   SOMEDAY I WOULD LOVE TO LEARN DSA IN C++                %+
       +-#    TODAY I'LL BE TRAINING:-     ||                                                                           %*
